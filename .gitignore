@@ -1,0 +1,21 @@
+﻿# Build output
+bin/
+obj/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# JetBrains Rider / IntelliJ IDEA
+.idea/
+*.iml
+*.DotSettings.user
+
+# Optional local tooling caches
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.cache
+
